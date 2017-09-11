@@ -1,0 +1,71 @@
+# What is cell biology
+Physiology-->Cell Biolog--> Biochemistry
+
+** What can Cell biology can tell us?**
++ The mystery of longevity
++ The mystery of human diseases
++ Premature mortality(·ÇÕý³£ËÀÍö) in China
++ Tumour: p53 gene
+Signal --> Cytoskeleton --> Cell cycle --> Cell death -->
+ ECM adn Cell Adhesion --> Neouron --> Cancer --> Membrane --> Protein transport
+
+
+## 1.1 Discovery of cell and the Cell theory
++ 1665 Hooks' Microscope
++ 1670: leeuwenhoek make a better microscope to observe more living thing
++ 1838-1839: Schieiden and Schwann general the role of cell in living thing
++ 1855 Rudolf Virchow: Propsed cells are from pre-existing cells
++ 1860s:Louis Pasteur proved that cell only originated fro  an pre-existing living cell
++ 1880 : Eduard Strasburger observe the cell division
+** The Cell Theory **
++ 1. All living are composed of one or more cells.
++ 2. The cell is basic unit of structure and function for all organisms.
++ 3.All cells arise only from preexisting cells by division
+
+## 1.2 The difference between prokaryotic cell and eukaryotic cell
+
+Most cells are small. Prokaryotic is about 0.2~2 micrometer, eukaryotic 10~100 
+micrometer.
+> "eu" --> ="true","good"
+"karyote --> "kernel"
+"pro" --> "before"
+
+| Characteristic   | prokaryotes | eukaryotes |
+|-----------------|---------------|------------|
+|   Size    | 0.2-2.0 micrometer in diameter | 10-100micrometer |
+| Nucleus   |  x                             | ALL              |
+|Organelles |  x                             | ER, Golgin bodies, Lysosome |
+|Phospholipid membrane |                     | mitochondrial, chloroplasts |
+|Motility   | rotating Flagell(some)         | undulated Flagella & Cilia arrangement microtubles others by amboid action |
+|Glycocalyx | capsule, slime layer           | Surround some animal cells   |
+| Flagella  | some                           | some                         |
+| Cillia    | x                              | some                         |
+| Fimbriae & pill | some                     | some                         |
+| Cell Wall | most,bacteria                  | most: protein, cellulose,algin agar, carrageenan ,sillicate,glucomanna,chitin|
+| Plasma membrane| Lacking carbs and sterols | has: glycoprotein,glycolipids,sterols |
+| Cytosol   | ALL                            | ALL                           |
+| Inclusions | ALL                           | ALL                           |
+| Endospores | some                          | x                             |
+| Ribosomes | Cytoplasm(70s) | Cytoplasm(80s) Mitochondria&Chlroplast(80s)|
+| Cytoskeleton | simple | complex |
+| Cell divison | amitosis|mitosis & meiosis|
+| Biochemical diversity | much more | much less|
+
+### Structure of an animal cell
+
+Cells visuallied by microscope. 
+
+## 1.3 The astonishing constancy of all cells
++ 1. All cells use DNA to store gentic information. 
++ 2. Central dogma: All cells transcribe DNA into RNA, and translates RNA into
+ protein. Protein synthesis from messenger RNA by ribosomes.
++ 3. All cells require free energy, make and consume ATP to drive the life.
++ 4. All cells are enclosed in a plasma membrane
+
+## 1.4 How did cells evolve?
+Evidence to support symblosis: Mitochondria.
+Genetic information determines the nature of whole nulticellular organisms. Gene is 
+the one which can code protein, RNA or others. Intragenic mutation, gene duplication,
+DNA segment shuffling, Horizontal trasfer
+
+
