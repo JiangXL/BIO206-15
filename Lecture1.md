@@ -1,6 +1,7 @@
 # What is cell biology
-Physiology-->Cell Biolog--> Biochemistry
 
+Physiology-->Cell Biolog--> Biochemistry
+	
 ** What can Cell biology can tell us?**
 + The mystery of longevity
 + The mystery of human diseases
@@ -51,6 +52,8 @@ micrometer.
 | Cell divison | amitosis|mitosis & meiosis|
 | Biochemical diversity | much more | much less|
 
+So, the bescribes the size of a yeast cell is 10-100micrometer
+
 ### Structure of an animal cell
 
 Cells visuallied by microscope. 
@@ -65,7 +68,21 @@ Cells visuallied by microscope.
 ## 1.4 How did cells evolve?
 Evidence to support symblosis: Mitochondria.
 Genetic information determines the nature of whole nulticellular organisms. Gene is 
-the one which can code protein, RNA or others. Intragenic mutation, gene duplication,
-DNA segment shuffling, Horizontal trasfer
+the one which can code protein, RNA or others. Mutation, duplication, shuffling, 
+Horizontal trasfer, which can change the info of DNA. Horizontal gene transfer(HGT) 
+occurs in prokaryotic cells (same species or between species), which contians
+transformation, conjugation, transduction, by sex.
 
+** Homologous genes(genes are homologs):**
++ orthologs(对位？): Speciation to give to two separate speices
++ paralogs（邻位？）: Gene duplication and divergence
+
+HGT: Transduction, transfofmation, commgation
+sex is horizontal gene tra
+
+Phylogenetic Tree of Life by rRNA sequence（系统发生树）
+
+## 1.5 The application model systems study cell biology
+
+Drosophiae, //C. elegans//,
 

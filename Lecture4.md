@@ -26,12 +26,74 @@ Non-ionic detergent no denature protein , only solute protein
 ## 4. Membrance proteins
 
 Type: 
-	+intergral membtane proteins, 
+	+intergral membrane proteins, 
 	+perriphery proteins
+	+
 
 + me 30% genome
 + important therapeutic targets
-+ 
++  
+
+
+(1)
+	
+c. Lipid-linked rptein are made in cytosol as soluble proein
+d. GPI anchor is made as transembrane protein 
+
+Membrae protein asymmery:
++ Confomational changes of protein can occur
++ carbohydarteof glycoproty, is out
+
+Membrane protein form domain:
++ self-assemble into aggregate
++ Tethered by outside molecules 
++ Tethered by inside molecules
++ Confined by cell-cell junctions
+
+Example: Cytosketon nework 
+Carbohydrate layer by ru
+
+Glycoprotein
++ Lectins: 
+
+
+Membrane protein mobility
++ Rotaional mobility
++ Lateral difussion
+	Example 2: FRAP 	
+	Example 3: FLIP (what about the curve)
+	
++ Protein moblility vary gratly
+	(1) soem  protein is free to move
+
+
+## MEmebrane  proteins to covalently attach to membrane lipid 
++ myristoyl anchor 肉蔻
++ palmitoys anchor
++ farnesyl anchor
+
+Toplogy
+	Example 1: mitocho
+	Example 2: protein G
+	
+	Transmenbrane alpa-helix: 
+	can be predite by hydropath plot
+
+## Bacteriorrhodospin  the firest membrane trasnport 
++ 视紫红质的激发光和发射光是
+
+
++ beta-barrel
+
+
+
+
+
+
+
+
+##
+
 
 ## 
 A good teacher can show the magic of what he teach
