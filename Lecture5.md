@@ -1,6 +1,6 @@
 # Lecture 5: Membrane transport of ions and small molucules
 
-## 
+##
 
 Ions are distubuted diferently indsid and outsixe a cell
 
@@ -16,26 +16,26 @@ electrochemical gradient is important factor(how to model)
 
 Passive : down the electrochemical gradietn
 Active: against the ele
-ATP driven pump, coupled transporter, 
-Passive 
+ATP driven pump, coupled transporter,
+Passive
 
-| 
+|
 | down its gradietn 10^7-10^8| bind molucules tightly, undergo confomationlchanges, |
-| 
+|
 
 ### Channel
-1. onogated (³£¿ª)
+1. onogated (ï¿½ï¿½ï¿½ï¿½)
 2. 10^7-10^8
 
 ion-channel
 
 Mean: maintain appropriate solute concentration to avoid osmotic swelling
 
-µ­Ë®¶¯ÎïÉÏµÄÕ³Òº×èÖ¹Ï¸°ûÕÅ²© 
+ï¿½ï¿½Ë®ï¿½ï¿½ï¿½ï¿½ï¿½Ïµï¿½Õ³Òºï¿½ï¿½Ö¹Ï¸ï¿½ï¿½ï¿½Å²ï¿½
 
-## Aquaporins increase the water 
+## Aquaporins increase the water
 
-Water can transfer, but ASN on water channel stop the transfer of H+. 
+Water can transfer, but ASN on water channel stop the transfer of H+.
 
 ## Ion Channel
 1. Highly selective, >100 types
@@ -45,22 +45,22 @@ Water can transfer, but ASN on water channel stop the transfer of H+.
 voltage-gated, ligand-gated(extracelluar lighd), ligand-gated(intracelluar ligand), mechnically gated
 (hair cell of ear)
 
-²¶Ó¬²ÝµÄÎ´½âÖ®ÃÕ
+ï¿½ï¿½Ó¬ï¿½Ýµï¿½Î´ï¿½ï¿½Ö®ï¿½ï¿½
 How the K+ channel work
-ÄÑµÀµçÃÅÖ÷ÒªÊÇÒ»¸öµçºÉÑ¡ÔñÆ÷
+ï¿½Ñµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Òªï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ñ¡ï¿½ï¿½ï¿½ï¿½
 
 
 
 ### Transporter
 
-+ 4.Uniport, antiport, symport 
++ 4.Uniport, antiport, symport
 
 ### 1. Uniporter-GLUT1
 
 
 ### ATP-pumps
 + ATPase
-+ 
++
 
 ### Symporter
 
@@ -79,25 +79,22 @@ Glucose can help to transfer in help with Na+
 	+ Na+ /K+ pumpb
 + 2. F-type:
 + 3. V-type:
-+ 4. ABC-type(): 
++ 4. ABC-type():
 	+ CFTR
-	+ 
+	+
 
 
 V. Neuron electric potential
-1> 
+1>
 
 
 -20mV to -120mV
 
 
-Éß¶¾£¬¼ý¶¾£¬Õò¾²¼Á£¬
+ï¿½ß¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ò¾²¼ï¿½ï¿½ï¿½
 
+Thickness of lipid bilayer is about 5mm.
 
+# The water chanel
 
-
-
-
-
-
-
+Water can transfer, but ASN on water channel stop the transfer of H+.
