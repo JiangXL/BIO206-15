@@ -9,19 +9,19 @@
 ### 1.2 Isolated from tissue
 Dissected tissue
 -->Add trypin/EDTA digest,collagenase digest
-(Trypin and collagenase both is proteolytic enzymes,which digest proteins in the 
-extracellular matrix. EDTA will bind or chelate the Ca2+ on which cell-cell adhesion 
+(Trypin and collagenase both is proteolytic enzymes,which digest proteins in the
+extracellular matrix. EDTA will bind or chelate the Ca2+ on which cell-cell adhesion
 depends )
 -->...-->Flow cytometry
 
 ### 1.3 How to enrich homo genous cells
 + 1.3.1 FACS
-+ 1.3.2 Magnetic beads-conjugated antibody. Example: Add CD3-magnetic beads conjugate 
-+ 1.3.3 Laser capture microdissection(¼¤¹âÇÐ¸î£¿£¿£¿)
++ 1.3.2 Magnetic beads-conjugated antibody. Example: Add CD3-magnetic beads conjugate
++ 1.3.3 Laser capture microdissection(ï¿½ï¿½ï¿½ï¿½ï¿½Ð¸î£¿ï¿½ï¿½ï¿½ï¿½)
 
-## 1.4 Hybridoma cell line(ÔÓ½»ÁöÏ¸°ûÏµ)
+## 1.4 Hybridoma cell line(ï¿½Ó½ï¿½ï¿½ï¿½Ï¸ï¿½ï¿½Ïµ)
 
-Fusion 
+Fusion
 
 
 ## 2. Culture cells/maintain a cell line
@@ -40,9 +40,9 @@ within matrix or suspension
 
 | | 2D | 3D |
 |
-| Cell Differentiation | 
+| Cell Differentiation |
 |
-| 
+|
 
 
 ## 3. Composed of Cells
@@ -70,11 +70,4 @@ clone specific gene or anaylze gene expression levels?
 RT-PCR()
 
 Cell-free system - a relatively pure system
-+ An in vitro system consists from pure biomoleculers or cerll homogentate 
-
-
-
-
-
- 
-
++ An in vitro system consists from pure biomoleculers or cerll homogentate
