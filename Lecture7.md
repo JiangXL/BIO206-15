@@ -56,8 +56,25 @@ breadown in =side fa=nd
 Three pathways for degradation in lysosome
 
 ## 5. Endocytosis
+Caveolae mediated pinocytosis. Cell activiely regulate receptor mediated
+endocytosis. clathrin(内涵蛋白)
+Example: Taking up of E
+
+Fate of endocytosed materials.
+
+
+### 5.2 Transcytosis -- in poliarized epithelial cells
+免疫球蛋白进入婴儿体内。
+
+
+
 ## 6. Exocytosis
 
+mature
+
+How voltage-gated Ca2+ channel influx Ca2+.
+
+What happpens to the membrane lipid and proteins after exocytosis?
 
 
 TYea
