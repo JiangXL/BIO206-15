@@ -1,8 +1,9 @@
 # Lecture 5: Membrane transport of ions and small molucules
 
-##
 
-Ions are distubuted diferently indsid and outsixe a cell
+
+##
+Ions are distubuted diferently indsid and outside a cell
 
 ### Simple diffusion
 1.

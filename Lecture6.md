@@ -1,8 +1,9 @@
 
+
 ## The major intracellular compartments of an animal cell
 
-## The import of cell member system in cell
 
+## The import of cell member system in cell
 Why the explentd inner member?
 
 Sets of protein decide the function of
@@ -20,13 +21,12 @@ protein with sorting signal will be transproted by three way:
     import into plastid (one 亲水，疏水)
   +  
 
-## Transprot between the nucleus and the cytosol
 
+## Transprot between the nucleus and the cytosol
 why exist nuclear fibrilin NPC
-NPC
+
 
 ## transport in mitochondrionand choroplast
-
 Protein translocators --  TIM , TOM
 TIM23, TIM
 
@@ -34,10 +34,11 @@ ATP and mebrane potintal drive  import into the matrix space
 
 chaperones(分子伴侣)，
 
+
 ## Transport in peroxisome(过氧化物体）
 
-## Transport in Endoplasmic reticulum
 
+## Transport in Endoplasmic reticulum
 Co-translational:
 
 Rough and smooth microsomes
@@ -55,7 +56,6 @@ Three ways of protein translocation
 +
 
 ## Rough ER-glycosylation
-
 Misfolded proteisn in the ER activate an unfolded protein response.
 
 Activation of transcription of genes involvd in unfolded protein response.

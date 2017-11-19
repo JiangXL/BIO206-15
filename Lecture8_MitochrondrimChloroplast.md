@@ -11,13 +11,14 @@ Mitochondrial genes ar inherited by a non-mendelian mechanism.
 
 Myoclonic epilepsy and ragged fred
 
-## IV Energy COnversion(mitochondria, cholorplast)
+## IV Energy Conversion(mitochondria, cholorplast)
 Systems to provide energy for lives
 
 化学渗透偶联
 ETC(Electron transfer chain)
 
-Three respiratory complexes
+Three respirato
+ry complexes
 Proton
 
 Cholorplast

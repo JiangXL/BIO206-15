@@ -1,6 +1,7 @@
 # Lecture 9 Regulation of protein function
 
 
+
 ## 1. Protein complexity
 + Translation efficiency
 + Cannonical ORF mRNA, uORF-containing mRNA
@@ -8,14 +9,16 @@
 + Subcellualr location
 + Protein modification
 
+
 ## 2. Regulation of protein function
-### 1. Control of protein intrinsic activity
+
+### 2.1. Control of protein intrinsic activity
 + phosphorylation/dephosphorylation
 + SUmolation, Neddylation
 +
 + Protease on Cys,etc
 2.
-3. Steady-sa\sts
+3. Steady-state
 
 Protein binding: All proteins function by binding to other molecules, which are called "ligands", latin
 
