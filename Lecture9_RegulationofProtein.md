@@ -34,3 +34,32 @@ Protein cleavage
 Pro-insulin
 
 ### 2.2 Control of protein localization and local concentration
+
+### 2.3 Steady state level of protein(稳态)
+Protein synthesis: mRNA transcription, translation, post-transcription.
+Protein degradtion: Post-translation
+
+Co-translational protein folding
+
+Heat shock proteins:
+higher temperature, more protein misfolded.
+
+Hsp70 acts first to help fold partially translated protein,
+
+Degrade:
+5: Ubiquitination dependent protein degradtion in cells
+
+
+NaCN 抑制呼吸链
+
+
+Protein Ubiquitination: Ubiquitin contains seven lysine residues,
+
+Ubiquitination systems
+
+V. Protein misfolding causes human diseases.
+Protein aggregates primarily cause neurodegerative
+
+  + Prion diseases such as scrapie in sheep, Creultzfeldt-Jacob disease,
+  bovine   
+  + prion protein misfolds, in turn changes the next normal  
