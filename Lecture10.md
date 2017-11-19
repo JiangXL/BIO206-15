@@ -1,13 +1,13 @@
 # Lecture 10 Cell communication Part one
 1. Quarum sensing in bacteria(群体感应现象)
 
-# #1. Overview of cell communication
+##1. Overview of cell communication
 + CELL-SURFACE receptors
 + INTRACELLUAR receptors
 
 + Cell-Cell contact
 + Synaptic: fast
-+
+
 
 fast
 slow: protein change in protein behavior
