@@ -47,3 +47,58 @@ GPCR can be desensitized in many way.
 
 
 ## II. Enzyme-linked recptor signaling
+All these are single transmembrane receptor, which either is itself an enzyme or
+directly associates with an enzyme. It can be divided into 6 classes: **receptor
+tyrosine kinase(RTK), Tryosine-kinase-associated receptors, receptor Ser/Thr
+kinase, Histidine-kinase-associated receptors, Recetor guanylyl cyclases--cGMP,
+Receptorlike tyrosine phosphatases**.
+
+> Just because the different between amino acid
+
+### RTKs： Receptor tyrosine kinase 酪氨酸
+![Structure of RTKs](11/RTKs.png)
+
+RTKs contain three domains:
+- Extracelluar region: interact with ligand
+- One single transmembrane domain:
+- Intracelluar region: tyrosine kinase activity
+A mutant RTKs can acts as dominant negative manner after muation. Phoshporylation
+on RTK can 1) activates RTK kinase activity, 2) introduce phospho-Tyr that can
+recruit other protein factors to relay signals.
+
+There are several important signal pathways downstream of RTK: **Ras, Rho, PI3K**
+pathway. Activation of Ras downstream of RTK mediated by Grb2 and Sos. MAP
+（mitogen-activated protein) kinase signalig downstream of Ras, which control
+both protein activity and gene transcription. Scafflod proteins provide precision
+and avoid cross-talk between parallel MAP kinase modules.
+> What is ??、
+
+**Rho-GTPase**, can couple cell surface receptors to the cytoskeleton, which
+control cell shape, polarity, migration, and aadhesion. For example: ephrin
+induces growth cone collapse.
+
+**PI3K** pathway promotes cell growth and survival. PI3K and PTEN(Phosphatase
+and tensin homology) in controlling PIP3. PI3K hyperactivation and PTEN loss of
+function frequently occur in human cancers.
+![PI3 Kinase](11/PI3K.png)
+
+## 2. Tyrosine-kinase-associate receptors 酪氨酸
+It recruit cytosolic tyrosine kinase to relay signal, form dimers upon ligand
+binding. This family include: antigen receptors(BCR, TCR), integrin 整合素,
+interleukin 白介素, receptors for many cytokines 细胞因子 and growth hormones.
+
+### 3. Serine/ Threonine kinase receptor 丝氨酸 苏氨酸
+Single transmembrane receptor and Ser/Thr kinase. It has two classes:
+- Type I: form homodimers, upon activation by ligand
+- Type II: dimer phosphorylates Type I dimer to form active tetramer.
+Serine/Threonine kinase receptors are for: TGF beta superfamily, Secreted and
+dimeric proteins, ~30-40 members for human. It control diverse activity in
+differentiation, proliferation, cell death, devlopment, etc.
+
+### Histidine-kinase-associated receptors 组氨酸
+Bacteria's chemotaxis are control by receptor-histidine-kinase-assocaited
+receptors.  Normally, all motor rate counterclockwise, every sec or two,
+some motor clockwis---tumbling. CheA---Histidine kinase which can phosphorylate
+itself on histidine, CheA then transfters Phosphate group to Asp on CheY.
+
+![Chemotaxis](11/Chemotaxis.png)
