@@ -4,14 +4,14 @@ disassembles unnecessary or dysfunctional components. Autophagy allows the
 orderly degradation and recycling of cellular components. In macroautophagy,
 targeted cytoplasmic constituents are isolated from the rest of the cell within
 a double-membraned vesicle known as an autophagosome. The autophagosome
-eventually fuses with lysosomes and the contents are degraded and recycled. Three
-forms of autophagy are commonly described: macroautophagy, microautophagy, and
-chaperone-mediated autophagy (CMA). In disease, autophagy has been seen
-as an adaptive response to stress, which promotes survival, whereas in
-other cases it appears to promote cell death and morbidity. In the extreme
-case of starvation, the breakdown of cellular components promotes cellular
-survival by maintaining cellular energy levels. The name "autophagy" was
-coined by Belgian biochemist Christian de Duve in 1963. The identification
+eventually fuses with lysosomes and the contents are degraded and recycled.
+Three forms of autophagy are commonly described: macroautophagy,
+microautophagy, and chaperone-mediated autophagy (CMA). In disease, autophagy
+has been seen as an adaptive response to stress, which promotes survival,
+whereas in other cases it appears to promote cell death and morbidity. In the
+extreme case of starvation, the breakdown of cellular components promotes
+cellular survival by maintaining cellular energy levels. The name "autophagy"
+was coined by Belgian biochemist Christian de Duve in 1963. The identification
 of autophagy-related genes in yeast in the 1955.
 
 ## History
@@ -24,13 +24,17 @@ Lysome/ vacuolar system：
 1955, Christian de Duve discovery lysosome.
 
 ## The mechanism of autophagy
+???
+
+> What is the difference between autophagy and apotosis?
 
 ## Meaning of autophagy
 Nutrient Recycling:
-  1) essential for survival under starvation
-  2) recyling for amino acids for protein synthesis, energy source
+ - 1). essential for survival under starvation
+ - 2). recyling for amino acids for protein synthesis, energy source
+
 Elimination of excessive or harmful materials:
-  1).essential for clearance of cytoplasm
-  2).specific protein, protein aggregates
-  3).organelles: mitochondria, peroxisomes, lysosoems, ER nucleus
-  4).Invasive bacterai, Virus particles.
+  - 1).essential for clearance of cytoplasm
+  - 2).specific protein, protein aggregates
+  - 3).organelles: mitochondria, peroxisomes, lysosoems, ER nucleus
+  - 4).Invasive bacterai, Virus particles.
