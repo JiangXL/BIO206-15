@@ -20,7 +20,7 @@ Formation of spindle
 ## II. Cytokinesis
 **Four Stages:**
 + Initiation
-+ 
++
 
 Spindles determine the postion of cleavage furrow:
 Three models:
@@ -43,8 +43,8 @@ Symmetrical and asymmetrical division
 
 What is controlling organ size and orgranism size?
 + 1. Mitogens stimulate cell division
-+ 2. Growth factors stimulate cell growth 
-+ 3. 
++ 2. Growth factors stimulate cell growth
++ 3.
 
 
 
@@ -55,23 +55,11 @@ What is controlling organ size and orgranism size?
 
 
 
-4. Coordination of cell grwoth and cell division 
-    
+4. Coordination of cell grwoth and cell division
+
 
 
 
 How is cell size controlled precisely?
 How is cell division numbers control precisely?
 How to maintain the homeostasis in an organism?
-
-
-
-
-
-
-
-
-
-
-
-

@@ -33,7 +33,7 @@ end is balanced by loss from that end.
 the other end shrinks resulting in a section of filament seemingly "moving"
 across a stratum or the cytosol. This is due to the constant removal of the
 protein subunits from these filaments at one end of the filament while protein
-subunits are constantly added at the other end.
+subunits are constantly added at the other end.(缺张图)
 
 > Actin monomer availability controls actin filament assembly. ?
 
@@ -70,7 +70,26 @@ Myosin II contains head(2 heavy chains, 2 essential light chains), Neck, Tail.
 Myosin head drives actin movement.
 
 ## VI. Myosin-powered movements
-Mechanisms of muscle
-
+### 6.1. Myosin II
+Mechanisms of muscle:
 **Nebbulin** provide sacffold and structural support, molecular ruler.
-**Titin** is molecular spring, **Cap Z** and ** alpha-actinin**
+**Titin** is molecular spring, **Cap Z** and **alpha-actinin**
+![muscle myofibrils](12/Sarcomere.png)
+
+Signal Control: 横管（亦称T[型]小管，英语：**T-tubule**）是肌膜（一种细胞膜）上很深的内陷
+凹槽，目前只在骨骼肌细胞和心肌细胞上发现。这些横小管能够让膜去极化并迅速吸入细胞内部。
+Movement Mechanism Switch: _Troponin and tropomyosin_ can control the skeletal
+muscle contraction. Smooth muscle and non-muscle cells have lesswell-ordered
+contractile bundles of actin and myosin, which is regulated by myosin light-chain
+phosphorylation.
+![Myosin II phosphorylation](12/light-chainphosphorylation.png)
+
+### 6.2. Myosin V
+Because myosin V can swing 30 to 40 nm of lever arm, myosin V can transport
+organelle/mRNA by walking along actin fiilaments.
+
+## VII. Cell migration
+
+> How actin cause protrusion in leading edge??
+
+![Protrusions in leading edge](12/Protrusionsinleadingedge.png)
