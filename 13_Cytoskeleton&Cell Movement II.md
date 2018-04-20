@@ -48,7 +48,7 @@ transport synaptic vesicle precursors down the axon, which resut in neurological
 disease (Charcot-Marie-Tooth disease)进行性神经性腓骨肌萎缩症.
 
 ## Intermediate filament
-Intermediate filament is no polarity, no motor activity, tensile and stable,
+The diameter is 10nm. Intermediate filament is no polarity, no motor activity, tensile and stable,
 hard to be solubilized, very heterogeneous(多相). Defects in keratin results in
 skin bistering(水泡).
 
