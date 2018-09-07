@@ -11,18 +11,19 @@ echo "%"$newbookname > title.txt
 echo "%"$author >> title.txt
 
 ## markdown to epub
-pandoc -o NeuroBiology.epub title.txt \
+pandoc -o CellBiology.epub title.txt \
 README.md \
-1.Introduction.md
+1.Introduction.md \
+2.VisualizingCells.md
 echo "Markdown to epub done"
 
 ## epub ==> mobi
-kindlegen NeuroBiology.epub > /dev/null
-rm NeuroBiology.epub
+kindlegen CellBiology.epub > /dev/null
+rm CellBiology.epub
 echo "Epub to mobi done"
 
 ## send book to kindle mailbox
-echo $newbookname | neomutt -s "$newbookname"  976602663@kindle.cn -a NeuroBiology.mobi
+echo $newbookname | neomutt -s "$newbookname"  976602663@kindle.cn -a CellBiology.mobi
 echo "Sent done"
 
 # Refer
