@@ -14,7 +14,8 @@ echo "%"$author >> title.txt
 pandoc -o CellBiology.epub title.txt \
 README.md \
 1.Introduction.md \
-2.VisualizingCells.md
+2.VisualizingCells.md \
+3.MethodtoStudyCell.md
 echo "Markdown to epub done"
 
 ## epub ==> mobi
