@@ -15,7 +15,8 @@ pandoc -o CellBiology.epub title.txt \
 README.md \
 1.Introduction.md \
 2.VisualizingCells.md \
-3.MethodtoStudyCell.md
+3.MethodtoStudyCell.md \
+4.MembraneStructure.md
 echo "Markdown to epub done"
 
 ## epub ==> mobi
