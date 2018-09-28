@@ -16,7 +16,9 @@ README.md \
 1.Introduction.md \
 2.VisualizingCells.md \
 3.MethodtoStudyCell.md \
-4.MembraneStructure.md
+4.MembraneStructure.md \
+5.MembraneTransport.md \
+6.TransportofMacomoleculesI.md
 echo "Markdown to epub done"
 
 ## epub ==> mobi
