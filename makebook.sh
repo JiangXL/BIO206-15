@@ -19,7 +19,8 @@ README.md \
 4.MembraneStructure.md \
 5.MembraneTransport.md \
 6.TransportofMacromoleculesI.md \
-7.TransportofMacromoleculesII.md
+7.TransportofMacromoleculesII.md \
+8.MitochrondrimChloroplast.md
 echo "Markdown to epub done"
 
 ## epub ==> mobi
@@ -30,6 +31,7 @@ echo "Epub to mobi done"
 ## send book to kindle mailbox
 echo $newbookname | neomutt -s "$newbookname"  976602663@kindle.cn -a CellBiology.mobi
 echo "Sent done"
+rm title.txt
 
 # Refer
 #[epub to mobi]-http://hshsh.me/post/2014-01-13-make-beautiful-ebooks-with-pandoc/
