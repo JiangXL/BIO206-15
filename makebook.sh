@@ -20,7 +20,8 @@ README.md \
 5.MembraneTransport.md \
 6.TransportofMacromoleculesI.md \
 7.TransportofMacromoleculesII.md \
-8.MitochrondrimChloroplast.md
+8.MitochrondrimChloroplast.md \
+9.RegulationofProtein.md
 echo "Markdown to epub done"
 
 ## epub ==> mobi
