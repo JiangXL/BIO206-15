@@ -22,7 +22,8 @@ README.md \
 7.TransportofMacromoleculesII.md \
 8.MitochrondrimChloroplast.md \
 9.RegulationofProtein.md \
-10.CellCommunicationI.md
+10.CellCommunicationI.md \
+11.CellCommunicationII.md
 echo "Markdown to epub done"
 
 ## epub ==> mobi
