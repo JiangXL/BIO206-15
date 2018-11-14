@@ -15,17 +15,17 @@
 
   Cell is basic unit of living thing, study of cell is a import
   subjective.But it is difficult to do cell experiment in vivo, we need to
-  culture cell in vovi and do the experiment. First, cell are essiential to
-  isolated from origism body. Nowsday, here are many difference cell lines we
-  can use in laborator. Such as <with|font-series|bold|C>hinese
+  culture cell in vivo and do the experiment. First, cell are essential to
+  isolated from organism body. Nowsday, here are many difference cell lines
+  we can use in laboratory. Such as <with|font-series|bold|C>hinese
   <with|font-series|bold|h>amster <with|font-series|bold|o>vary(CHO) cells,
   tobacco <with|font-series|bold|b>right <with|font-series|bold|y>ellow
   <with|font-series|bold|2> (BY2) cells, <with|font-series|bold|h>uman
   <with|font-series|bold|e>mbryonic <with|font-series|bold|k>idney (HEK)
   cells, <with|font-series|bold|He>nrietta <with|font-series|bold|La>cks
-  (HeLa) cells and etc. Cell lines share some simiar morphology, but some of
-  mophology are enough difference for us to differ it, which can statify
-  diverse experiment requriement. Cell in culture can be divided into three
+  (HeLa) cells and etc. Cell lines share some similar morphology, but some of
+  morphology are enough difference for us to differ it, which can satisfy
+  diverse experiment requirement. Cell in culture can be divided into three
   basic categories based on their shape and appearance, including
   fibroblastic(or fibroblast-like) cells, epithelial-like cells,
   lymphoblast-like cells.
@@ -250,7 +250,7 @@
     <associate|auto-1|<tuple|1|1>>
     <associate|auto-10|<tuple|3.3|3>>
     <associate|auto-11|<tuple|3.4|3>>
-    <associate|auto-12|<tuple|4|4>>
+    <associate|auto-12|<tuple|4|3>>
     <associate|auto-13|<tuple|5|4>>
     <associate|auto-14|<tuple|6|4>>
     <associate|auto-15|<tuple|7|4>>
@@ -262,7 +262,7 @@
     <associate|auto-20|<tuple|5|6>>
     <associate|auto-3|<tuple|2.1|2>>
     <associate|auto-4|<tuple|2.2|2>>
-    <associate|auto-5|<tuple|2.3|3>>
+    <associate|auto-5|<tuple|2.3|2>>
     <associate|auto-6|<tuple|2.4|3>>
     <associate|auto-7|<tuple|3|3>>
     <associate|auto-8|<tuple|3.1|3>>
