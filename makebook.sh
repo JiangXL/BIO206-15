@@ -26,7 +26,9 @@ README.md \
 11.CellCommunicationII.md \
 12.Cytoskeleton+CellMovementI.md \
 13.Cytoskeleton+CellMovementII.md \
-14.CellCycle_I.md
+14.CellCycle_I.md \
+15.CellCycle_II.md \
+16.Apoptosis.md
 echo "Markdown to epub done"
 
 ## epub ==> mobi
