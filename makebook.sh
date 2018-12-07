@@ -28,7 +28,10 @@ README.md \
 13.Cytoskeleton+CellMovementII.md \
 14.CellCycle_I.md \
 15.CellCycle_II.md \
-16.Apoptosis.md
+16.Apoptosis.md \
+17.Autophagy.md \
+18.IntergratingCellintoTissuesI.md \
+19.IntergratingCellintoTissuesII.md
 echo "Markdown to epub done"
 
 ## epub ==> mobi
