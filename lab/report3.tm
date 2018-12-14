@@ -22,7 +22,8 @@
 
   \ Electrophoresis
 
-  Transfer Protein and Western Blotting.
+  Transfer Protein and Western Blotting.: The primary antibody and second
+  antibody.
 
   <section|Materials & Method>
 
@@ -75,13 +76,33 @@
 
   <subsection|Western blotting>
 
-  Precast SDS-PAGE gel(Bio-Rad), 3mm filfter paper, PVDF membrane(Millipore),
-  Transfer Buffer(<with|font-base-size|10|25mM Tris-HCl, pH8.3, 192mM
-  glycine, 20%(v:v) methanol>), SDS-PAGE runging
-  buffer(<with|font-base-size|10|Tris 0.025M, Glycine 0.192M, SDS 0.1%,
-  pH8.3>), QuickBlock Western Blocking(Beyotime, P0252), Methanol,
-  PageRuler<math|<rsup|TM>> Prestained Protein ladder(Thermo), Protein
-  electrophoresis system(BIO-RAD), transfer system(BIO-RAD).
+  Precast SDS-PAGE gel(<with|font-base-size|11|Bio-Rad>), 3mm filfter paper,
+  PVDF membrane(<with|font-base-size|10|Millipore>), Transfer
+  Buffer(<with|font-base-size|10|25mM Tris-HCl, pH8.3, 192mM glycine,
+  20%(v:v) methanol>), SDS-PAGE runging buffer(<with|font-base-size|10|Tris
+  0.025M, Glycine 0.192M, SDS 0.1%, pH8.3>), QuickBlock Western
+  Blocking(<with|font-base-size|10|Beyotime, P0252>), Methanol,
+  PageRuler<math|<rsup|TM>> Prestained Protein
+  ladder(<with|font-base-size|10|Thermo>), Protein electrophoresis
+  system(<with|font-base-size|10|BIO-RAD>), transfer
+  system(<with|font-base-size|10|BIO-RAD>).
+
+  Mouse Anti-<math|\<alpha\>>-tubulin monoclonal
+  antibody(<with|font-base-size|10|BOSTER BM1452,
+  ><with|font-base-size|10|diluted in QuickBlock Primary Antibodfy Dilution
+  Buffer for Western Blot(Beyotime, P0256>)<with|font-base-size|10|,
+  1:500<em|<with|font-series|bold|<strong|<with|font-series|medium|font-base-size|10|>>><with|font-shape|right|font-base-size|10|>>>),
+  Rabbit Anti-CASP(p17) polyclonal antibody(<with|font-base-size|10|BOSTER
+  PB1083, ><with|font-base-size|10|diluted in Primary Antibodfy Dilution
+  Buffer for Western Blot, 1:1000>), HRP-goat-anti-mouse IgG monoclonal
+  antibody(<with|font-base-size|10|BOSTER,
+  BM1050>)(<with|font-base-size|10|diluted in QuickBlock Secondary Antibody
+  Dilution Buffer for Western Blot(Beyotime, P0258), 1:2000>), HRP-goat anti
+  rabbit IgG(<with|font-base-size|10|BOSTER, BA1054,>
+  <with|font-base-size|10|diluted in QuickBlock Secondary Antibody Dilution
+  Buffer for Western Blot(Beyotime, P0258), 1:2000>), Pierce<math|<rsup|TM>>
+  ECL Western Blotting Substrate(<with|font-base-size|10|Thermo Fisher,
+  32106>)
 
   First, 20\<#3BC\>g(9.1\<#3BC\>L) lysate of control group and experiment
   group were added to 1.5mL tube one by one, while RIPA was used to adjust
@@ -136,7 +157,7 @@
       group>|<cell|0.417>|<cell|2.189\<mu\>g/mL>>>>>
     </equation*>
 
-    <item>
+    <item>Western Blot Results
   </enumerate>
 
   \;
@@ -173,18 +194,17 @@
 <\references>
   <\collection>
     <associate|auto-1|<tuple|1|1>>
-    <associate|auto-10|<tuple|6|2>>
-    <associate|auto-11|<tuple|2|2>>
-    <associate|auto-12|<tuple|1|3>>
-    <associate|auto-13|<tuple|1|?>>
+    <associate|auto-10|<tuple|6|3>>
+    <associate|auto-11|<tuple|2|3>>
+    <associate|auto-12|<tuple|1|4>>
     <associate|auto-2|<tuple|2|1>>
     <associate|auto-3|<tuple|2.1|1>>
     <associate|auto-4|<tuple|2.2|1>>
-    <associate|auto-5|<tuple|1|1>>
+    <associate|auto-5|<tuple|1|2>>
     <associate|auto-6|<tuple|2.3|2>>
-    <associate|auto-7|<tuple|3|2>>
-    <associate|auto-8|<tuple|4|2>>
-    <associate|auto-9|<tuple|5|2>>
+    <associate|auto-7|<tuple|3|3>>
+    <associate|auto-8|<tuple|4|3>>
+    <associate|auto-9|<tuple|5|3>>
   </collection>
 </references>
 
